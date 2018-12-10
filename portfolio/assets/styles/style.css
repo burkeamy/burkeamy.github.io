@@ -88,6 +88,7 @@ button {
 
 .img-1{
     margin: 15px;
+    width: 250px;
     position: absolute; 
     top: 150px;
 }
@@ -106,6 +107,7 @@ button {
 
 .img-2 {
     margin: 15px;
+    width: 250px;
     position: absolute; 
     top: 150px;
     left: 450px;
@@ -126,6 +128,7 @@ button {
 
 .img-3 {
     margin: 15px;
+    width: 250px;
     position: absolute; 
     top: 325px;
      
@@ -145,6 +148,7 @@ button {
 
 .img-4 {
     margin: 15px;
+    width: 250px;
     position: absolute; 
     top: 325px;
     left: 450px;
@@ -165,6 +169,7 @@ button {
 
 .img-5 {
     margin: 15px;
+    width: 250px;
     position: absolute; 
     top: 500px;
 }

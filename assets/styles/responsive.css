@@ -1,0 +1,11 @@
+@media (max-width: 680px) {
+    nav {
+        overflow: auto;
+    }
+    .navbar-brand {
+        margin-left: 5%;
+        z-index: 1;
+        width: 100%;
+        overflow: auto;
+    }
+}

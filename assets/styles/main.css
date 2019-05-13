@@ -1,0 +1,98 @@
+
+nav {
+    border-bottom: 1px solid teal;
+    padding: 10px 30px 10px 40px;
+    clear: both;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar-brand {
+    background-color: teal;
+    width: 15%;
+    margin-left: 12%;
+    overflow: auto;
+    padding: -5px;
+    margin-right: 45%;
+    text-align: center;
+    color: white;
+}
+
+.nav-item {
+    border-right: 1px solid darkgrey;
+    height: 2em;
+}
+
+.nav-item:last-child {
+    border: none;
+}
+
+section {
+    width: 100%;
+    height: 95%;
+    background-color: lightgrey;
+    margin: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    overflow: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h2 {
+    color: teal;
+    width: 100%;
+    border-bottom: 1px solid darkgrey;
+    padding: 10px 0 15px 5px;
+}
+
+.container-fluid {
+    width: 75%;
+    background-color: rgb(250, 251, 255);
+    margin: auto;
+    box-shadow: .5px .5px;
+    overflow: auto;
+}
+
+
+footer{
+    text-align: center;
+    border-top: 2px solid teal;
+    color: white;
+    background-color: darkslategrey;
+    position: fixed; 
+    bottom: -2px;
+    left: 0;
+    width: 100%;
+}
+
+img {
+    width: 150px;
+    padding-top: 10px;
+}
+
+.img-thumbnail {
+    height: 150px;
+    float: left;
+    margin-right: 5px;
+}
+
+.rotate {
+    transform: rotate(90deg);
+    margin-top: 40px;
+    z-index: -1;
+}
+
+.game-name {
+    z-index: 2;
+    width: 100px;
+    color: white;
+    background-color: teal;
+    text-align: center;
+}
+
+.footer-link {
+    height: 50px;
+    width: 50px;
+    padding-bottom: 10px;
+
+}

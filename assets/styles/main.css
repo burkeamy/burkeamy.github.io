@@ -113,3 +113,8 @@ img {
 .img-section {
     margin: 15px;
 }
+
+a:hover { 
+    background-color: teal;
+    color: white;
+}

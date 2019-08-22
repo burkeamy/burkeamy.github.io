@@ -118,3 +118,8 @@ a:hover {
     background-color: teal;
     color: white;
 }
+
+.btn-primary {
+    background-color: teal;
+    margin-bottom: 1%;
+}
